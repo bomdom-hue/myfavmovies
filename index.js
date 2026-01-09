@@ -14,6 +14,7 @@ const trailers = [
 ];
 
 const button = document.getElementById("randomBtn");
+const yearr = document.getElementById('year');
 button.addEventListener("click", () => {
     const randomIndex = Math.floor(Math.random()*trailers.length);
     const url = trailers[randomIndex];
@@ -29,3 +30,5 @@ const observer = new IntersectionObserver(entries => {entries.forEach(entry => {
 
 document.querySelectorAll(".movie").forEach(movie => {observer.observe(movie)
 });
+
+yearr.textContent = new Date().getFullYear()
