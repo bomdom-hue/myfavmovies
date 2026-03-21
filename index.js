@@ -11,7 +11,8 @@ const trailers = [
 "https://www.youtube.com/watch?v=tlize92ffnY&pp=ygUXaGFuZ292ZXIgcGFydCAxIHRyYWlsZXI%3D",
 "https://www.youtube.com/watch?v=Q7kZy3T6vRM&pp=ygUQd2hpcGxhc2ggdHJhaWxlcg%3D%3D",
 "https://www.youtube.com/watch?v=DMOBlEcRuw8&pp=ygUUcHVyc3VpdCBvZiBoYXBwaW5lc3M%3D",
-"https://youtu.be/I7c1etV7D7g"
+"https://youtu.be/I7c1etV7D7g",
+"https://www.youtube.com/watch?v=BegO9nKUsBY&pp=ygUMdGhlIGRpY3RhdG9y"
 
 
 ];
