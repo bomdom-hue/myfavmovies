@@ -156,3 +156,9 @@ body{
 a{
     color: #36454F;
 }
+
+.movie {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 20px;
+    border-radius: 12px;
+}
